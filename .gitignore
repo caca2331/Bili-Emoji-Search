@@ -1,0 +1,12 @@
+.DS_Store
+
+# Local browser tooling and session data
+chrome/
+user-data/
+
+# Validation artifacts
+dist/*.png
+
+# Local/private notes
+requirement.md
+requirements.md
